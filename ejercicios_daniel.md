@@ -1,6 +1,6 @@
 # Ejercicios Daniel
 
-**1. Debemos actualizar el sistema operativo Ubuntu**
+**1. Debemos actualizar el sistema operativo Ubuntu**\
 	 - Sincronizar la base de datos local y el repositorio: sudo apt update\
 	 - Visualizar los programas a actualizar: sudo apt list --upgradable\
 	 - Actualizar nuestro sistema operativo: sudo apt list upgrade\
